@@ -2,8 +2,8 @@
 
 ## Suba o container
 ```
+
     docker-compose up
-    
 
 ```
 
@@ -18,5 +18,5 @@
 ```
 
     go run main.go
-    
+
 ```
